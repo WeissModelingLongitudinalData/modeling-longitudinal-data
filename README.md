@@ -14,28 +14,28 @@ This repository preserves the data sets and related resources that accompanied *
 
 ---
 
-## SAS Data Sets
+## Data Sets
 
 - [Anthropometry 1](data/anthro_class.sas7bdat)
-- [Anthropometry 2 (use for homework 1)](data/anthro2_class.sas7bdat)
+- [Anthropometry 2 (use for homework 1)](data/anthro2_class.txt)
 - [Bolus Counts (Henderson and Shimakura)](data/bolusdata.sas7bdat)
 - [BSI Total](data/bsitotal.sas7bdat)
 - [BSI Total Long Version](data/bsitotallong.sas7bdat)
-- [Cognitive](data/cognitive.sas7bdat)
-- [Dental](data/dental.sas7bdat)
-- [Mice Big (Balanced with missing format) (Izenman and Williams 1989)](data/bigmice.sas7bdat)
-- [Mice Small](data/smallmice.sas7bdat)
+- [Cognitive](data/cognitive.txt)
+- [Dental](data/dental.txt)
+- [Mice Big (Balanced with missing format) (Izenman and Williams 1989)](data/bigmice.txt)
+- [Mice Small](data/smallmice.txt)
 - [Morbidity (Kenya)](data/morbidity_class.sas7bdat)
-- [Ozone data with covariates](data/newozone1.sas7bdat)
+- [Ozone data with covariates](data/ozone.txt)
 - [Nurses Blood Pressure Study](data/nursebp.sas7bdat)
-- [Ozone Data](data/newozone1.sas7bdat)
-- [Pediatric Pain](data/pain.sas7bdat)
+- [Ozone Data](data/ozone.txt)
+- [Pediatric Pain](data/pain.txt)
 - [Tracking (OZDASL)](data/tracking.sas7bdat)
 - [Schizophrenia data (Hedeker)](data/schizophrenia.sas7bdat)
 - [Vagal Tone](data/vagaltone.sas7bdat)
 - [Wallaby Growth](data/wallaby.sas7bdat)
-- [Weight Loss Version 1 (weekly observations)](data/weight1.sas7bdat)
-- [Weight Loss Version 2 (day of observations, visit type)](data/weight2.sas7bdat)
+- [Weight Loss Version 1 (weekly observations)](data/weight1.txt)
+- [Weight Loss Version 2 (day of observations, visit type)](data/weight2.txt)
 - Three versions of the Hypothetical Weight Loss data set, chapter 4, table 4.1.
   - [Complete Data](data/missingdata1.sas7bdat)
   - [Missing At Random (MAR)](data/missingdata2.sas7bdat)
